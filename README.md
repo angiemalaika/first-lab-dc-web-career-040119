@@ -17,7 +17,9 @@ To complete this lab you will have to:
 
 Forking is the process of making your personal copy of the Learn lab on GitHub.
 
-<img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-1.png" alt="Git Workflow 1">
+<img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-1.png" alt="Git Workflow 1">pwd
+pwd
+
 
 To get started, in Learn click the GitHub button to go to Flatiron School's copy of the lab on Github.
 
